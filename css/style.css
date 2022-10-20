@@ -234,6 +234,8 @@ time {
     display: flex;
    justify-content: space-around;
     padding-bottom: 10%;
+    max-width: 1080px;
+    margin: 0 auto;
 }
 
 .policy {
@@ -247,7 +249,6 @@ time {
     border: 1px solid #1e90ff; 
     border-radius: 5px;
     box-shadow: 3px 2px 2px #1e90ff;
-    margin-left: 10%;
     margin-bottom: 50px;
 }
 
@@ -274,8 +275,6 @@ time {
     border-radius: 5px;
     margin-top: 60px;
     box-shadow: 3px 2px 2px #1e90ff;
-    margin-left: auto;
-    margin-right: auto;
 }
 
 .introduction p {
@@ -294,7 +293,6 @@ time {
     border: 1px solid #1e90ff; 
     border-radius: 5px;
     box-shadow: 3px 2px 2px #1e90ff;
-    margin-right: 10%;
     margin-bottom: 50px;
 }
 
@@ -320,6 +318,7 @@ time {
 .title-b h2 {
     font-size: 36px;
     padding-right: 20px;
+    padding-left: 20px;
     font-size: 36px;
 }
 
@@ -337,7 +336,7 @@ time {
 }
 
 #news ul {
-    max-width: 28%;
+    max-width: 500px;
     margin: 0 auto;
     padding-bottom: 30px;
 }
@@ -397,8 +396,6 @@ time {
     border-radius: 5px;
     margin-top: 60px;
     box-shadow: 3px 2px 2px #1e90ff;
-    margin-left: auto;
-    margin-right: auto;
 }
 
 .situnai p {
